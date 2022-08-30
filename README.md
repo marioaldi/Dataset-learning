@@ -1,1 +1,3 @@
-# database-mechine-learning
+# dataset learning 
+
+# instalasion anaconda atau google colab dan import libary nya
